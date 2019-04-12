@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-11T06:21:17.913Z</updated>
+  <updated>2019-04-12T01:10:20.523Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,58 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新工作开始</title>
+    <link href="http://yoursite.com/2019/04/11/%E6%96%B0%E5%B7%A5%E4%BD%9C%E5%BC%80%E5%A7%8B/"/>
+    <id>http://yoursite.com/2019/04/11/新工作开始/</id>
+    <published>2019-04-11T06:22:52.519Z</published>
+    <updated>2019-04-12T01:10:20.523Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;目前的工作情况&quot;&gt;&lt;a href=&quot;#目前的工作情况&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="工作记录" scheme="http://yoursite.com/categories/%E5%B7%A5%E4%BD%9C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="杂记" scheme="http://yoursite.com/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生活小记</title>
+    <link href="http://yoursite.com/2019/03/21/%E7%94%9F%E6%B4%BB%E5%B0%8F%E8%AE%B0/"/>
+    <id>http://yoursite.com/2019/03/21/生活小记/</id>
+    <published>2019-03-21T14:50:46.275Z</published>
+    <updated>2019-04-12T01:10:08.128Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;这个博客终于算是搭起来了&quot;&gt;&lt;a href=&quot;#这个博客终于算是搭起来了&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="生活记录" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="杂记" scheme="http://yoursite.com/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>第一篇</title>
